@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/parallelism/Task2_square/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/parallelism/Task2_square/cmake-build-debug/CMakeFiles/Task2_square.dir
+C:/Users/ASUS/CLionProjects/parallelism/Task2_square/cmake-build-debug/CMakeFiles/rebuild_cache.dir
